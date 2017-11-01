@@ -1,2 +1,2 @@
 # auberadieuse
-Le projet du futur, mon futur, notre futur wallah
+Le projet du futur, mon futur, notre futur
