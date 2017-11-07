@@ -1,3 +1,12 @@
+.box{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  border: 1px solid black;
+}
+#middle{
+  flex-grow: 2;
+}
 #onglets
 {
     font : bold 11px Batang, arial, serif;
@@ -42,7 +51,7 @@
 html {
   margin:0;
   padding:0;
-  background: url('/auberadieuse/rsc/background.jpg') no-repeat center fixed; 
+  background: url('/auberadieuse/rsc/background.jpg') no-repeat center fixed;
   -webkit-background-size: cover; /* pour Chrome et Safari */
   -moz-background-size: cover; /* pour Firefox */
   -o-background-size: cover; /* pour Opera */
